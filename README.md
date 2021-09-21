@@ -1,6 +1,7 @@
-### Hello 👋, I'm Supratik Santra.
+
 
 <p align="center">
+ ### Hello 👋, I'm Supratik Santra.
 <img src="https://s3.amazonaws.com/adweek-shorthand-editorial/uncannyvalley/assets/BLSQBO9z15/genesis01-nolight.gif" width=700/>
  <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rjsanx&show_icons=true&theme=dark&include_all_commits=true" alt="rjsanx's github stats" />
