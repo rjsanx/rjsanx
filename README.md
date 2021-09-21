@@ -3,6 +3,9 @@
  ### Reach me
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/supratik-santra-x67/)
+
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/GodSanx) 
+
 <p align="center">
  
  ![](https://komarev.com/ghpvc/?username=rjsanx&color=blueviolet)
