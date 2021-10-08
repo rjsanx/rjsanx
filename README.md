@@ -2,9 +2,20 @@
 
 <div align = "center">
  <h3>Hello 👋, I'm Supratik Santra.</h3>
+
+</div>
+<p align="center">
+ 
+
+
+<img src="https://s3.amazonaws.com/adweek-shorthand-editorial/uncannyvalley/assets/BLSQBO9z15/genesis01-nolight.gif" width=700/>
+ <br>
+ 
+</p>
+<div align = "center">
+ 
 <h4> Reach me</h4>
 </div>
-
 
 <div align = "center" >
  
@@ -37,14 +48,7 @@
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
-<p align="center">
- 
 
-
-<img src="https://s3.amazonaws.com/adweek-shorthand-editorial/uncannyvalley/assets/BLSQBO9z15/genesis01-nolight.gif" width=700/>
- <br>
- 
-</p>
 
 
 
