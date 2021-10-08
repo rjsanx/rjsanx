@@ -32,12 +32,13 @@
 - I'm a Final Year Student persuing B.Tech in Computer Science and engineering from  KIIT University.
 
 
- ### Github Stats
+ 
 
 <div align="center">
+ <h4>Github Stats</h4>
   <div style="display: flex; align-items: flex-start;">
    <img src = "https://github-readme-streak-stats.herokuapp.com/?user=rjsanx&theme=radical" />
     <img src="https://github-readme-stats.vercel.app/api?username=rjsanx&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjsanx&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjsanx&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" width=500/>
      </div>
 </div>
