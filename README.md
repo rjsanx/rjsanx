@@ -58,9 +58,6 @@
 
 
 
-- My goal is to  explore and learn concepts of CS  and innovating powerful, interdisciplinary solutions to improve quality of life and inspire change.
-- I'm Currently doing an intership at Chubb Limited
-- I'm a Final Year Student persuing B.Tech in Computer Science and engineering from  KIIT University.
 
 
  
