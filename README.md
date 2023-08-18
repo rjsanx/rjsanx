@@ -63,7 +63,7 @@
 </div>
 
 
-
+[![Spotify](https://novatorem-git-main-rjsanx.vercel.app/api/spotify)](https://open.spotify.com/user/novatorem-git-main-rjsanx)
 
 
 
